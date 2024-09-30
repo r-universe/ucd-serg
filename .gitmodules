@@ -5,3 +5,7 @@
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/ucd-serg/serocalculator
+[submodule "ssdtools"]
+	path = ssdtools
+	url = https://github.com/bcgov/ssdtools
+	registered = false
