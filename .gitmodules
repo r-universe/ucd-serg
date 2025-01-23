@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "devtag"]
+	path = devtag
+	url = https://github.com/moodymudskipper/devtag
+	registered = false
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/ucd-serg/serocalculator
+[submodule "ssdtools"]
+	path = ssdtools
+	url = https://github.com/bcgov/ssdtools
+	registered = false

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "devtag",
+    "url": "https://github.com/moodymudskipper/devtag",
+    "via": ["serocalculator"],
+    "from": "serocalculator"
+  },
+  {
+    "package": "ssdtools",
+    "url": "https://github.com/bcgov/ssdtools",
+    "via": ["serocalculator"],
+    "from": "serocalculator"
+  }
+]
