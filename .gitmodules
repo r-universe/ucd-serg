@@ -5,3 +5,7 @@
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/ucd-serg/serocalculator
+[submodule "snapr"]
+	path = snapr
+	url = https://github.com/d-morrison/snapr
+	registered = false
