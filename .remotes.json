@@ -1,12 +1,5 @@
 [
   {
-    "package": "diffviewer",
-    "url": "https://github.com/d-morrison/diffviewer",
-    "via": ["serocalculator", "snapr"],
-    "branch": "copilot/use-diffobj-diffstr-to-compare-rds-files",
-    "from": "serocalculator"
-  },
-  {
     "package": "snapr",
     "url": "https://github.com/d-morrison/snapr",
     "via": ["serocalculator"],
