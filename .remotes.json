@@ -1,8 +1,20 @@
 [
   {
+    "package": "serocalculator",
+    "url": "https://github.com/ucd-serg/serocalculator",
+    "via": ["serodynamics"],
+    "from": "serodynamics"
+  },
+  {
     "package": "snapr",
     "url": "https://github.com/d-morrison/snapr",
     "via": ["serocalculator"],
     "from": "serocalculator"
+  },
+  {
+    "package": "snapr",
+    "url": "https://github.com/d-morrison/snapr",
+    "via": ["serodynamics", "serocalculator"],
+    "from": "serodynamics"
   }
 ]
