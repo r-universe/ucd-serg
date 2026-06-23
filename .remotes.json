@@ -1,5 +1,11 @@
 [
   {
+    "package": "serodynamics",
+    "url": "https://github.com/UCD-SERG/serodynamics",
+    "via": ["serocalculator"],
+    "from": "serocalculator"
+  },
+  {
     "package": "snapr",
     "url": "https://github.com/d-morrison/snapr",
     "via": ["serocalculator"],
