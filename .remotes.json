@@ -1,5 +1,12 @@
 [
   {
+    "package": "altdoc",
+    "url": "https://github.com/d-morrison/altdoc",
+    "via": ["serocalculator"],
+    "branch": "recursive-qmd-search",
+    "from": "serocalculator"
+  },
+  {
     "package": "serodynamics",
     "url": "https://github.com/UCD-SERG/serodynamics",
     "via": ["serocalculator"],
