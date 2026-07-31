@@ -5,7 +5,6 @@
 [submodule "altdoc"]
 	path = altdoc
 	url = https://github.com/d-morrison/altdoc
-	branch = recursive-qmd-search
 	registered = false
 [submodule "serocalculator"]
 	path = serocalculator
